@@ -1,0 +1,3 @@
+com/rhb/movie/MovieApplication.class
+com/rhb/movie/entity/Movie.class
+com/rhb/movie/persistence/MovieRepository.class
